@@ -16,10 +16,10 @@ document.write("<br><br>");
 
 var ninjas = 100;
 
-document.write("There are " + --ninjas + " ninjas in the room");
-document.write("There are " + --ninjas + " ninjas in the room");
-document.write("There are " + --ninjas + " ninjas in the room");
-document.write("There are " + --ninjas + " ninjas in the room");
-document.write("There are " + --ninjas + " ninjas in the room");
+document.write("There are " + --ninjas + " ninjas in the room" + "<br>");
+document.write("There are " + --ninjas + " ninjas in the room" + "<br>");
+document.write("There are " + --ninjas + " ninjas in the room" + "<br>");
+document.write("There are " + --ninjas + " ninjas in the room" + "<br>");
+document.write("There are " + --ninjas + " ninjas in the room" + "<br>");
 
 document.write("Project by Patrick M. Cook");
